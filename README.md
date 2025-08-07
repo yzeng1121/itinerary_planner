@@ -121,5 +121,4 @@ Original App Design Project
 
 ## Wireframes
 
-<img src="[YOUR_WIREFRAME_IMAGE_URL](https://github.com/yzeng1121/itinerary_planner/blob/main/itinerary_planner.jpg)" width=600>
-
+<img src="https://raw.githubusercontent.com/yzeng1121/itinerary_planner/main/itinerary_planner.jpg" width=600>
